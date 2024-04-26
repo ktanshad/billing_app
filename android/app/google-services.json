@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674943133372",
+    "project_id": "billingapp-6e9dc",
+    "storage_bucket": "billingapp-6e9dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674943133372:android:c97f0ca9f016afcd5a52b9",
+        "android_client_info": {
+          "package_name": "com.example.billing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg5p59zpr13A1eu_w2EKHz9pCP__LGNBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
